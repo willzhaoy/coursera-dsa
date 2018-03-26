@@ -1,0 +1,11 @@
+{
+  "name": "coursera-dsa",
+  "version": "1.0.0",
+  "documents": [
+    {
+      "name": "Coursera DSA",
+      "source": "README.md",
+      "format": "markdown"
+    }
+  ]
+}
